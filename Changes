@@ -1,0 +1,35 @@
+# TODO - convert to POD
+-
+ version: 0.14
+ date:    ~
+ changes:
+  - Add support for <?perldoc reset="thaw"?> PI to scrap current
+    constructed object and start anew
+  - begin new life in namespace Doc::Perlish
+-
+ version: 0.13
+ date:    ~
+ changes:
+  - Make Processing Instructions more like elements than text nodes
+  - Give Doc::Perlish::Writer::XML support for various XML pretty-printing hooks
+  - Doc::Perlish::Data::Chill doesn't die on recursive data structures
+-
+ version: 0.12
+ date:    21 Jun 2005
+ changes:
+  - fix MANIFEST (doh!)
+-
+ version: 0.11
+ date:    19 Jun 2005
+ changes:
+  - Add data parts (actually missing)
+-
+ version: 0.10
+ date:    19 Jun 2005
+ changes:
+  - Lots is working!  :-D
+-
+ version: 0.00_02
+ date:    01 Apr 2005
+ changes:
+  - April Fool's release of Doc::Perlish

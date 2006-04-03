@@ -1,0 +1,15 @@
+README for Doc::Perlish 0.14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is a preliminary release of Doc::Perlish.  Perldoc is a bit like SAX,
+but without the implied "XML".  As well as being like SAX, it
+specifies a DOM-like API to let you navigate built structures, too.
+
+Having said that, XML parsing and writing classes are provided as a
+baseline.
+
+This project is available via subversion;
+
+  svn://utsl.gen.nz/trunk/Doc/Perlish
+
+Commit access will be handed out liberally to those interested in
+working on Doc::Perlish; contact me (samv@cpan.org) for an account.
